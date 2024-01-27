@@ -41,7 +41,7 @@ import (
 	"encoding/hex"
 	"math/big"
 
-	"github.com/btcsuite/btcd/tree/master/btcec"
+	"github.com/btcsuite/btcd/btcec/v2"
 	"golang.org/x/crypto/ripemd160"
 )
 
