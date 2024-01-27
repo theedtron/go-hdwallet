@@ -6,7 +6,7 @@ Go HD Wallet tools [![Build Status](https://travis-ci.org/wemeetagain/go-hdwalle
 
 ### Get this library
 
-        go get github.com/wemeetagain/go-hdwallet
+        go get github.com/theedtron/go-hdwallet
 
 ### Example
 
